@@ -88,7 +88,12 @@ chmod +x sync_repo.sh
 
 And you're done !
 
+Make once everything is done to : 
 
+- **Untrack** from both *mobile* and *PC* git these files : 
+- `git rm --cached .obsidian/community-plugins.json`
+- `git rm --cached .obsidian/workspace.json`
+- `git rm --cached .obsidian/workspace-mobile.json`
 
 #### Note
 1. Make sure each time you finish you're work on PC to click on the git sync icon to push, you will find that it's configured to push each 30 mins, you can adjust as you need.
