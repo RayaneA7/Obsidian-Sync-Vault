@@ -3,7 +3,7 @@
 
 ---
 
-Hi, This is a demo folder for an [[Obsidian]] Vault !
+Hi, This is a demo folder for an **Obsidian** Vault !
 
 Obsidian is a very powerful tool for note taking, but it can basically do anything else related to knowledge management, journalling, Literature reviews ... 
 
