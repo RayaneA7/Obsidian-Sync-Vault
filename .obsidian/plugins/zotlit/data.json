@@ -1,0 +1,27 @@
+{
+  "logLevel": "INFO",
+  "citationEditorSuggester": true,
+  "showCitekeyInSuggester": false,
+  "literatureNoteFolder": "LiteratureNotes",
+  "enableServer": true,
+  "serverPort": 9091,
+  "serverHostname": "127.0.0.1",
+  "template": {
+    "folder": "Templates/ZotLit",
+    "templates": {
+      "filename": "<%= it.shortTitle ?? it.citekey ?? it.DOI ?? it.title ?? it.key %>.md"
+    }
+  },
+  "updateAnnotBlock": false,
+  "updateOverwrite": false,
+  "autoPairEta": false,
+  "autoTrim": [
+    false,
+    false
+  ],
+  "autoRefresh": true,
+  "zoteroDataDir": "/home/rayane-a7/Zotero",
+  "citationLibrary": 1,
+  "imgExcerptImport": "copy",
+  "imgExcerptPath": "LiteratureNotes/assets"
+}

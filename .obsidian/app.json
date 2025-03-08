@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "uriCallbacks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
